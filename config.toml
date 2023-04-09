@@ -2,12 +2,7 @@ baseURL = 'https://cyprus-rocks.eu/'
 languageCode = 'en-us'
 title = 'Cyprus Rock Climbing'
 theme = 'blist'
-license = "MIT"
-licenselink = "https://github.com/cyprus-rocks/blob/master/LICENSE"
 description = "an online guide to Rock Climbing on the Mediterranean island of Cyprus"
-homepage = "https://cyprus-rocks.eu/"
-features = ["clean", "gallery", "minimal", "minimalist", "mobile", "personal", "responsive", "simple", "tailwind", "blog", "white"]
-min_version = "0.82.1"
 
 [author]
   name = "Rustam Safin"
@@ -18,62 +13,26 @@ min_version = "0.82.1"
     contentDir = "content/en" #English
     weight = 1
     languageName = "English"
+
     [languages.en.params]
       introTitle = "Welcome to Cyprus"
-      introSubtitle = "Here you can find an online guide to rock climbing in Cyprus"
+      introSubtitle = "Welcome to CyprusRocks - an online guide to Rock Climbing on the Mediterranean island of Cyprus. Cyprus is one of the largest islands in the med and has the best weather in Europe. While relatively unknown as a climbing destination, the number, quality, and diversity of routes belies its low key reputation. Hard information supplying details of the climbing on offer has traditionally been difficult to track down. This web-site attempts to address this. Enjoy!"
       introPhoto = "/main.jpg"
       logo = "/cyprus.png"
     [[languages.en.menu.main]]
-        name = "All Areas"
-        url = "/climbing-areas"
+        name = "Lead Climbing"
+        url = "/areas/climbing-areas"
         weight = 1
 
     [[languages.en.menu.main]]
         name = "Bouldering"
-        url = "/bouldering-sectors/"
+        url = "/areas/bouldering-sectors/"
         weight = 2
 
     [[languages.en.menu.main]]
-        name = "Lead Climbing"
-        url = "/lead-sectors"
+        name = "Deep Water Solo"
+        url = "/areas/dws-sectors"
         weight = 3
-
-    [[languages.en.menu.main]]
-        name = "Top Post"
-        url = "/en/blog/emoji-support/"
-        weight = 4
-
-  [languages.gr]
-    contentDir = "content/gr" # Greek
-    weight = 2
-    languageName = "Eλληνικα"
-    title = "Rock climbing in Cyprus"
-    description = "Rock climbing in Cyprus"
-
-    [languages.gr.params]
-      introTitle = "Καλημερα"
-      introSubtitle = "Καλημερα"
-      introPhoto = "/main.jpg"
-      logo = "/cyprus.png"
-    [[languages.gr.menu.main]]
-        name = "All Areas"
-        url = "/all-areas"
-        weight = 1
-
-    [[languages.gr.menu.main]]
-        name = "Bouldering"
-        url = "/bouldering-sectors/"
-        weight = 2
-
-    [[languages.gr.menu.main]]
-        name = "Lead Climbing"
-        url = "/lead-sectors"
-        weight = 3
-
-    [[languages.gr.menu.main]]
-        name = "Top Post"
-        url = "/en/blog/emoji-support/"
-        weight = 4
 
 [params]
   # Enable the darkmode toggle in header
@@ -103,7 +62,7 @@ min_version = "0.82.1"
   # Color for the intro details and social links block, not applicable for dark mode
   # Supported values: Any color from TailwindCSS default colors
   # Reference: https://tailwindcss.com/docs/customizing-colors
-  ascentColor = "bg-orange-50"
+  ascentColor = "bg-yellow-300"
 
   # The page bundle that is shown on the front page
   frontBundle = "blog"

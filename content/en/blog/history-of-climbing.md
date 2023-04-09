@@ -2,7 +2,7 @@
 author: Rustam Safin
 title: History of climbing in Cyprus
 date: 2023-04-09
-description:
+description: Started in the late 1960s
 keywords: ["blog"]
 ---
 
@@ -22,7 +22,7 @@ The seventies seems to have been fairly quiet with regards new developments on t
 
 The other main developments took place at the other end of the island, around the area west and south of Droushia on the edge of the Akamas peninsula. A few dozen routes were established on the various metamorphized standstone outcrops - including many on the now bolted faces of Gerakopetra. Most impressive of these being a line that blasts it way up the middle of the impressive overhang (now a 7a sport route - then a E5 trad route). An article was written about climbing in this area, published in the now defunct On The Edge magazine, in the early 90s. It can be found reproduced here .
 
-Also from this period, was the first (and so far only) forays onto the massive (by Cyprus standards) cliff at Episkopi village (15km north east of Pafos). A small number of trad climbs were established on this face, including one that takes the main line running up the centre of the buttress - 65m in total, at a suprisingly amenable E1/A1.
+Also from this period, was the first (and so far only) forays onto the massive (by Cyprus standards) cliff at Episkopi village (15km north east of Paphos). A small number of trad climbs were established on this face, including one that takes the main line running up the centre of the buttress - 65m in total, at a suprisingly amenable E1/A1.
 
 # The Noughties
 

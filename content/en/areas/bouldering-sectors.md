@@ -1,0 +1,41 @@
+---
+author: Rustam Safin
+title: Bouldering in Cyprus
+date: 2023-04-09
+description:
+keywords: ["area"]
+---
+
+# Overview
+
+Bouldering in Cyprus has been fairly low key on the island until recently, with few protagonists, and those that were active operating fairly independently and in isolation. However, the last few years has seen a mini-explosion of interest in the activity. A few bouldering areas have opened up, a topo guide to one of the areas produced, and a couple of bouldering specific festivals organised.
+
+This section of Cyprus Rocks aims to give an overview of what's on offer to the pad carrying, beanie wearing, square backed brigade. The clickable map above represents the areas where most the activity has so far been centred on. Enjoy!
+
+# [Droushia/Ineia]({{<ref "/areas/droushia/overview" >}})
+
+The most extensive bouldering on the island. Several tens of potential boulders in a small area of approximately 4 square kilometres. Includes probably the steepest boulder on the island - a 25 foot roof. More details can be found here. Note: a fantastic new topo for the Droushia area has been produced by local bouldering aficionados. It is available in full as a pdf download.
+
+# [Limnitis]({{<ref "limnitis/overview" >}})
+
+Two boulders in a remote, peaceful location overlooking Morphou Bay, close to the coastline. One of the boulders is pretty massive by Cyprus standards and is well worth spending a day at. Also an overhaning wall about 60m long. More details can be found here.
+
+# [Agios Georgios]({{<ref "happy-valley/agios-georgios" >}})
+
+An extensiive set of boulders scattered around the vicinity of the Agios Georgios climbing sector. Unfortunately, the boulders are often sharp and the problems yielded tend to be towards the lower end of the bouldering scale, although with one or two harder problems thrown in. More details, including topo, can be found here.
+
+# [Agios Irakleidhios]({{<ref "agios-irakleidhios/overview" >}})
+
+An area located close to the Agios Irakleidhios monastery, but without the access difficulties. More information to be provided in due course.
+
+# [Cavo Greko]({{<ref "cavo-greko/overview" >}})
+
+The well known traditional climbing area also has several recorded bouldering problems and a small bouldering area not recorded in the main routes section. More details can be found here.	
+
+# Oroklini Quarry
+
+Old skool bouldering in an old skool disused quarry. High ball and loose and well worth a visit. Make sure your health insurance is up to date 😁. Located just west of Oroklini, not far from Larnaca. 
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d4128.856756030164!2d33.64126991523971!3d34.98083868036348!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDU4JzUxLjAiTiAzM8KwMzgnMzYuNSJF!5e1!3m2!1sen!2s!4v1681211932870!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+[Click to locate on Google Maps](https://goo.gl/maps/XBVXg6ZJvYYCTZDz5)

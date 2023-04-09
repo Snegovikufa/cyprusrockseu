@@ -1,8 +1,8 @@
 ---
 author: Rustam Safin
 title: Climbing Etiquette and Ethics
+description: Top tips of how to be a cool climber
 date: 2023-04-09
-description:
 keywords: ["blog"]
 ---
 

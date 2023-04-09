@@ -3,3 +3,7 @@ themes/
 assets/
 node_modules/
 .lock
+public/
+**/*.DS_Store
+.DS_Store
+static/.DS_Store

@@ -1,0 +1,5 @@
+resources/
+themes/
+assets/
+node_modules/
+.lock

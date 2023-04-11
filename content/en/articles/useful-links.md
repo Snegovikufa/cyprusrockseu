@@ -7,7 +7,7 @@ keywords: ["blog"]
 weight: 11
 ---
 
-# Overview
+# Google Maps
 
 Here is the map with places described here as a Google maps list:
 

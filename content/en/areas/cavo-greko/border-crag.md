@@ -18,7 +18,9 @@ Faces South Receives sun for most of the day.
 
 # Google Maps
 
-[Click to locate on Google Maps]()
+<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d5560.407409531593!2d34.06425531523927!3d34.960966980368596!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDU3JzM5LjUiTiAzNMKwMDMnNTkuMiJF!5e1!3m2!1sen!2s!4v1681232757068!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+[Click to locate on Google Maps](https://goo.gl/maps/fjMDAR2rHoU7bFCn7)
 
 # Notes
 

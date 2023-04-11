@@ -1,6 +1,6 @@
 ---
 author: Rustam Safin
-title: Bouldering in Cyprus
+title: Pyla - Potamos
 date: 2023-04-09
 description:
 keywords: ["crag"]

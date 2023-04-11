@@ -2,7 +2,7 @@
 author: Rustam Safin
 title: History of climbing in Cyprus
 date: 2023-04-09
-description: Started in the late 1960s
+description: Started in the late 1960s ...
 keywords: ["blog"]
 ---
 

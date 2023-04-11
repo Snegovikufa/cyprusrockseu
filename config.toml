@@ -20,20 +20,26 @@ canonifyURLs = true
       introSubtitle = "Welcome to CyprusRocks - an online guide to Rock Climbing on the Mediterranean island of Cyprus. Cyprus is one of the largest islands in the med and has the best weather in Europe. While relatively unknown as a climbing destination, the number, quality, and diversity of routes belies its low key reputation. Hard information supplying details of the climbing on offer has traditionally been difficult to track down. This web-site attempts to address this. Enjoy!"
       introPhoto = "/main.jpg"
       logo = "/cyprus.png"
+
+    [[languages.en.menu.main]]
+        name = "Articles"
+        url = "/articles"
+        weight = 1
+
     [[languages.en.menu.main]]
         name = "Lead Climbing"
         url = "/areas/climbing-areas"
-        weight = 1
+        weight = 2
 
     [[languages.en.menu.main]]
         name = "Bouldering"
         url = "/areas/bouldering-sectors/"
-        weight = 2
+        weight = 3
 
     [[languages.en.menu.main]]
         name = "Deep Water Solo"
         url = "/areas/dws-sectors"
-        weight = 3
+        weight = 4
 
 [params]
   # Enable the darkmode toggle in header
@@ -66,11 +72,11 @@ canonifyURLs = true
   ascentColor = "bg-yellow-300"
 
   # The page bundle that is shown on the front page
-  frontBundle = "blog"
+  frontBundle = "articles"
 
   # Used to hide the post metadata such as posted date, reading time and word count
   # Can be used at site level or page level
-  hideMeta = false
+  hideMeta = true
 
   # To hide "Other languages" option if the post is available in multiple languages
   # Can be used at site level or page level

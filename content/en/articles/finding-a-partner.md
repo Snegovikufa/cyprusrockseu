@@ -2,7 +2,7 @@
 author: Rustam Safin
 title: Looking for a climbing partner
 date: 2023-04-09
-description: Be careful with the belayers
+description: Feel free to communicate on Facebook
 keywords: ["blog"]
 ---
 

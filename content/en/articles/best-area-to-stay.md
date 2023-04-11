@@ -4,6 +4,7 @@ title: Best area to stay
 date: 2023-04-10
 description: What else can Cyprus offer to you?
 keywords: ["blog"]
+weight: 40
 ---
 
 

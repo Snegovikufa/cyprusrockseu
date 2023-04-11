@@ -2,8 +2,9 @@
 author: Rustam Safin
 title: Disclaimer
 date: 2023-04-10
-description: Very important
+description: Climbing is dangerous sport
 keywords: ["blog"]
+weight: 2
 ---
 
 Climbing and mountaineering are activities with a danger of personal injury or death. Participants in these activities should be aware of and accept these risks and be responsible for their own actions.

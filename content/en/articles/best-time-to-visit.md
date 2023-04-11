@@ -4,6 +4,7 @@ title: When to Visit
 date: 2023-04-10
 description: In winter or in summer?
 keywords: ["blog"]
+weight: 5
 ---
 
 Cyprus is an all year round climbing destination. In winter the lower lying areas, such as [Cavo Greko]({{<ref "/areas/cavo-greko/overview" >}}) benefit from generally reliable weather. Days tend to be mostly sunny, rain relatively infrequent, and temperatures often getting into the high teens (or high 60's). The traditional crags located in these areas are especially attractive in winter. The sports crags, generally located at higher altitude, are also often climbable in winter.

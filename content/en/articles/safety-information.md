@@ -4,6 +4,7 @@ title: Safety Information
 date: 2023-04-09
 description: Be careful with the sun
 keywords: ["blog"]
+weight: 1
 ---
 
 Cyprus is a hot country! Take plenty of water and be on your guard against heat-stroke, which has a habit of taking you unawares. Be especially vigilant when setting up belays at the top of routes, when you will be in full glare of the sun even if the route itself is in the shade.

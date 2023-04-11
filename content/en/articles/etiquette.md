@@ -4,6 +4,7 @@ title: Climbing Etiquette and Ethics
 description: Top tips of how to be a cool climber
 date: 2023-04-09
 keywords: ["blog"]
+weight: 7
 ---
 
 As climbing gains popularity it becomes more important that we are aware of our impact on the environment and others. The following list contains some self explanatory guidelines on what to do and what not to do. Hopefully you are following these already.

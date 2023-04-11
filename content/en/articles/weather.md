@@ -2,7 +2,7 @@
 author: Rustam Safin
 title: Cyprus Weather
 date: 2023-04-10
-description: Is it hot?
+description: Average temperature, forecast
 keywords: ["blog"]
 ---
 

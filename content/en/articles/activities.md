@@ -4,6 +4,7 @@ title: Other activities
 date: 2023-04-10
 description: What else can Cyprus offer to you?
 keywords: ["blog"]
+weight: 30
 ---
 
 Aside from the obvious (sit on beaches, work on your sun tan, etc.) the following are all well catered for in Cyprus:

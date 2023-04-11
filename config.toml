@@ -1,12 +1,13 @@
-baseURL = 'https://cyprus-rocks.eu/'
+baseURL = 'https://snegovikufa.github.io/cyprusrockseu/'
 languageCode = 'en-us'
 title = 'Cyprus Rock Climbing'
 theme = 'blist'
 description = "an online guide to Rock Climbing on the Mediterranean island of Cyprus"
+canonifyURLs = true
 
 [author]
   name = "Rustam Safin"
-  homepage = "https://cyprus-rocks.eu/"
+  homepage = "https://snegovikufa.github.io/cyprusrockseu/"
 
 [languages]
   [languages.en]

@@ -6,6 +6,8 @@ description:
 keywords: ["area"]
 ---
 
+![](/map.png)
+
 # [Dhiarizos]({{<ref "/areas/dhiarizos/overview" >}})
 
 Superb limestone sector containing over 50 well bolted sports routes in range 4 to 7c+.

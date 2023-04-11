@@ -6,6 +6,8 @@ description:
 keywords: ["area"]
 ---
 
+![](/map.png)
+
 # Overview
 
 Bouldering in Cyprus has been fairly low key on the island until recently, with few protagonists, and those that were active operating fairly independently and in isolation. However, the last few years has seen a mini-explosion of interest in the activity. A few bouldering areas have opened up, a topo guide to one of the areas produced, and a couple of bouldering specific festivals organised.

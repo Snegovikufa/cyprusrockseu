@@ -1,10 +1,9 @@
 ---
 author: Rustam Safin
-title: Droushia/Ineia
+title: Droushia/Ineia - Gerakopetra
 date: 2023-04-10
 description:
 keywords: ["crag"]
-slug: gerakopetra
 ---
 
 Excellent crag with many good sports routes, commanding great views over the Akamas peninsula and Lara bay. Reaches a height of 40m in places and some of the routes require two pitches.

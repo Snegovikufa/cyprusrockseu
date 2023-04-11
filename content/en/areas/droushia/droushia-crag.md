@@ -1,6 +1,6 @@
 ---
 author: Rustam Safin
-title: Droushia/Ineia
+title: Droushia/Ineia - Droushia Crag
 date: 2023-04-10
 description:
 keywords: ["crag"]

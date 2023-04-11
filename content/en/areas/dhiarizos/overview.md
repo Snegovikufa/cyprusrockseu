@@ -4,7 +4,6 @@ title: Dhiarizos - Kourtelorotsos
 date: 2023-04-09
 description:
 keywords: ["area"]
-slug: dhiarizos-overview
 ---
 
 A compact, but excellent crag. Home to probably the best sport routes on the island. The rock is a hard limestone, reaching heights of 28m. The crag is split into several sectors and in such a way that it is always possible to climb in the shade.

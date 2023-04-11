@@ -4,7 +4,6 @@ title: Droushia/Ineia - Konefti
 date: 2023-04-10
 description:
 keywords: ["crag"]
-slug: gerakopetra
 ---
 
 Interesting crag, until now difficult to access due to the vegetation. Now lovingly cleaned up by locals, and a set of worthy sports routes set up ranging from easy to hard.

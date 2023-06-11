@@ -10,19 +10,27 @@ keywords: ["area"]
 
 # [Dhiarizos]({{<ref "/areas/dhiarizos/overview" >}})
 
+![](/dhiarizos/overview.jpg)
+
 Superb limestone sector containing over 50 well bolted sports routes in range 4 to 7c+.
 
 # [Episkopi/Paphos]({{<ref "/areas/episkopi-paphos/overview" >}})
 
 ![Episkopi Paphos image](/episkopi-paphos/overview.jpg)
 
-Recently developed (2019+) sectors, home to the highest concentration of hard routes on the island.
+Those limestone walls offer some versatile routes from vertical to slightly overhanging crimpy routes to steep athletic overhangs. With currently 30 routes ranging from 6a up to 8b/8c and a lot of space for potential new masterpieces, Episkopi definitely worth a visit from mid-grade to high-end sport climbers and developers.
 
 # [Droushia/Ineia]({{<ref "/areas/droushia/overview" >}})
 
 ![](/droushia/gerakopetra.jpg)
 
 Most extensive and varied climbing on the island. Eight developed crags, sports and trad, close to Polis and within 30 minutes of Paphos.
+
+# [Xeros Valley / Galataria]({{<ref "xeros/overview" >}})
+
+![](/xeros/galataria.jpg)
+
+Great sector in a peaceful and remote location above the Xeros river valley.
 
 # [Cavo Greko]({{<ref "cavo-greko/overview" >}})
 
@@ -53,10 +61,6 @@ Decent little trad climbing area near Limassol. Over 20 routes, in low to mid gr
 # [Troodos]({{<ref "troodos/overview">}})
 
 Two sectors on sligthly cliffy rock in pretty surroundings.
-
-# [Xeros Valley]({{<ref "xeros/overview" >}})
-
-Great sector in a peaceful and remote location above the Xeros river valley.
 
 # [Episkopi/Limassol]({{<ref "episkopi-limassol/overview" >}})
 

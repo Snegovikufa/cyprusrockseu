@@ -35,6 +35,8 @@ Access to the routes is by rappelling from somewhere near the top of the route P
 
 # Route Summary
 
+[UKClimbing](https://www.ukclimbing.com/logbook/crags/cape_pyla-3206/#maps)
+
 ![Image](/pyla/pyla-crag-01.jpg)
 
 10 trad (VD to E2)

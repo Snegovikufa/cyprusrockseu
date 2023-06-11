@@ -40,6 +40,8 @@ Descent is via the small gully to the right of Meeti.
 
 # Route Summary
 
+[UKClimbing](https://www.ukclimbing.com/logbook/crags/happy_valley_area-16721/#agios_georgios)
+
 7 trad (D to E2)
 
 ![Image 1](/happy-valley/hv_ag_1.jpg)

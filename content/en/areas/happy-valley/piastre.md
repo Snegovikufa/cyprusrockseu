@@ -27,7 +27,9 @@ Faces North West/West
 [Click to locate on Google Maps](https://goo.gl/maps/iysF6ZHhLpD64Gwp6)
 
 # Route Summary
-~~~~
+
+[UKClimbing](https://www.ukclimbing.com/logbook/crags/happy_valley_area-16721/#piastre)
+
 10 trad (D to E2)
 
 | #   | Name                | Grade | Length | Description                                                                                                                                                |

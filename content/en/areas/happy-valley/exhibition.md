@@ -39,6 +39,8 @@ To descend walk off the back of the crag, head right (east) for approx 20m, then
 
 # Route Summary
 
+[UKClimbing](https://www.ukclimbing.com/logbook/crags/happy_valley_area-16721/#exhibition)
+
 11 trad (D to HVS)
 
 

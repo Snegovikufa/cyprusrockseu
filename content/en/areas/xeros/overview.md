@@ -1,10 +1,12 @@
 ---
 author: Rustam Safin
-title: Xeros
+title: Xeros / Galataria
 date: 2023-04-11
 description:
 keywords: ["crag"]
 ---
+
+![](/xeros/galataria.jpg)
 
 Remote sector in a pleasant location overlooking the Xeros river valley. The rock here provides pleasant movement oriented climbing, requiring a variety of climbing techniques in surprisingly exposed positions. There is a bit of looseness to the rock in places.
 
@@ -17,15 +19,19 @@ Faces South West. Gets the sun from mid morning onwards. A large tree in the mid
 
 # Google Maps
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d4241.61315132264!2d32.65171751523642!3d34.85802278039436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDUxJzI4LjkiTiAzMsKwMzknMTQuMSJF!5e1!3m2!1sen!2s!4v1681193683546!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1708.261029749043!2d32.65292323461554!3d34.85773816893364!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14e71546d1efed41%3A0xa7e17dda91630150!2sGalataria%20crag%20rock%20climbing!5e1!3m2!1sen!2sus!4v1686472841004!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-[Click to locate on Google Maps](https://goo.gl/maps/EohDQcMNu8W25URh9)
+[Click to locate on Google Maps](https://goo.gl/maps/D8FLNEGkKYGyzfPE7)
 
 # Notes
 
 Many of the route names are unknown. The grades need confirmation. The rock can be a little loose. Some lower offs are carabiners, others are ring bolts.
 
 # Route Summary
+
+[UKClimbing](https://www.ukclimbing.com/logbook/crags/panagia_tou_sindi_galataria-27852/#galataria_routes)
+
+[The Crag](https://www.thecrag.com/en/climbing/middle-east/area/5898024555)
 
 12 sport (5b to 6c)
 

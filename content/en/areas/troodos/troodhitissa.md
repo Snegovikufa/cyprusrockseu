@@ -28,6 +28,8 @@ Helmet strongly advised for climber and belayer. If the National Guard are train
 
 # Route Summary
 
+[UKClimbing](https://www.ukclimbing.com/logbook/crags/troodhitissa_gorge-3244/#topos)
+
 4 sport (5a to 5c)
 
 

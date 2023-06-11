@@ -29,6 +29,8 @@ A few hundred metres further up the valley, on the other side of the stream, is 
 
 # Route Summary
 
+[UKClimbing](https://www.ukclimbing.com/logbook/crags/kakopetria-12450/#topos)
+
 7 sport (5a to 6a+)
 
 

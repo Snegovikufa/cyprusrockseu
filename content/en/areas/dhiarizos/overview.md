@@ -6,6 +6,8 @@ description:
 keywords: ["area"]
 ---
 
+![Main 6](/dhiarizos/main_6.jpg)
+
 A compact, but excellent crag. Home to probably the best sport routes on the island. The rock is a hard limestone, reaching heights of 28m. The crag is split into several sectors and in such a way that it is always possible to climb in the shade.
 
 ## Directions
@@ -30,6 +32,10 @@ The Extreme View Cafe, located 1 km back up the road to Paphos, is highly recomm
 Please be aware that birds sometimes nest in the top of the crack a third of the way up Khoros tis Siopis (main slab) and in the top of the flake half-way up Kalitechnis (main wall). Try to avoid these routes if it looks like this has happened (usually April through May).
 
 # Route Summary
+
+[UKClimbing](https://www.ukclimbing.com/logbook/crags/dhiarizos_diarizos-8708/#topos)
+
+[The Crag](https://www.thecrag.com/en/climbing/middle-east/area/129930600)
 
 65 sport (3 to 7c+)
 

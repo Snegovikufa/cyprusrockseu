@@ -10,9 +10,7 @@ keywords: ["area"]
 
 # Overview
 
-Bouldering in Cyprus has been fairly low key on the island until recently, with few protagonists, and those that were active operating fairly independently and in isolation. However, the last few years has seen a mini-explosion of interest in the activity. A few bouldering areas have opened up, a topo guide to one of the areas produced, and a couple of bouldering specific festivals organised.
-
-This section of Cyprus Rocks aims to give an overview of what's on offer to the pad carrying, beanie wearing, square backed brigade. The clickable map above represents the areas where most the activity has so far been centred on. Enjoy!
+Bouldering in Cyprus is mainly concentrated in the area of Droushia/Ineia.
 
 # [Droushia/Ineia]({{<ref "/areas/droushia/overview" >}})
 

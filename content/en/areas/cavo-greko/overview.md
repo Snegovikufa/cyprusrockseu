@@ -6,7 +6,7 @@ description:
 keywords: ["area"]
 ---
 
-![Image of Cavo Greko](/cavo_greko.jpg)
+![Cavo greko](/cavo-greko/main.jpg)
 
 | Crag                                      | Description                                                                 | Rating |
 | ----------------------------------------- | --------------------------------------------------------------------------- | ------ |

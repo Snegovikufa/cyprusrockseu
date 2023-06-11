@@ -6,11 +6,11 @@ description:
 keywords: ["area"]
 ---
 
-![](/map.png)
+![Map](/map.png)
 
 # [Dhiarizos]({{<ref "/areas/dhiarizos/overview" >}})
 
-![](/dhiarizos/overview.jpg)
+![Dhiarizos](/dhiarizos/overview.jpg)
 
 Superb limestone sector containing over 50 well bolted sports routes in range 4 to 7c+.
 
@@ -22,19 +22,19 @@ Those limestone walls offer some versatile routes from vertical to slightly over
 
 # [Droushia/Ineia]({{<ref "/areas/droushia/overview" >}})
 
-![](/droushia/gerakopetra.jpg)
+![Droushia](/droushia/gerakopetra.jpg)
 
 Most extensive and varied climbing on the island. Eight developed crags, sports and trad, close to Polis and within 30 minutes of Paphos.
 
 # [Xeros Valley / Galataria]({{<ref "xeros/overview" >}})
 
-![](/xeros/galataria.jpg)
+![Galataria](/xeros/galataria.jpg)
 
 Great sector in a peaceful and remote location above the Xeros river valley.
 
 # [Cavo Greko]({{<ref "cavo-greko/overview" >}})
 
-![](/cavo-greko/cavo_greko.jpg)
+![Cavo greko](/cavo-greko/main.jpg)
 
 Outstanding traditional climbing location in atmospheric coastal setting. Around 180 recorded traditional routes, M to E6.
 

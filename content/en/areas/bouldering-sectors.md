@@ -16,7 +16,7 @@ This section of Cyprus Rocks aims to give an overview of what's on offer to the 
 
 # [Droushia/Ineia]({{<ref "/areas/droushia/overview" >}})
 
-The most extensive bouldering on the island. Several tens of potential boulders in a small area of approximately 4 square kilometres. Includes probably the steepest boulder on the island - a 25 foot roof. More details can be found here. Note: a fantastic new topo for the Droushia area has been produced by local bouldering aficionados. It is available in full as a pdf download.
+The most extensive bouldering on the island. Several tens of potential boulders in a small area of approximately 4 square kilometres. Includes probably the steepest boulder on the island - a 25 foot roof. More details can be found here. Note: a fantastic new topo for the Droushia area has been produced by local bouldering aficionados.
 
 # [Limnitis]({{<ref "limnitis/overview" >}})
 
@@ -37,3 +37,9 @@ The well known traditional climbing area also has several recorded bouldering pr
 # [Oroklini Quarry]({{<ref "oroklini/overview" >}})
 
 Old school bouldering in an old school disused quarry. High ball and loose and well worth a visit. Make sure your health insurance is up to date 😁. Located just west of Oroklini, not far from Larnaca. 
+
+# Episkopi Limassol
+
+New undeveloped bouldering sector.
+
+[27crags](https://27crags.com/crags/roof-on-the-hill)

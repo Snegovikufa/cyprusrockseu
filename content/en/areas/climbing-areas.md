@@ -14,15 +14,19 @@ Superb limestone sector containing over 50 well bolted sports routes in range 4 
 
 # [Episkopi/Paphos]({{<ref "/areas/episkopi-paphos/overview" >}})
 
+![Episkopi Paphos image](/episkopi-paphos/overview.jpg)
+
 Recently developed (2019+) sectors, home to the highest concentration of hard routes on the island.
 
 # [Droushia/Ineia]({{<ref "/areas/droushia/overview" >}})
 
-![](/gerakopetra.jpg)
+![](/droushia/gerakopetra.jpg)
 
 Most extensive and varied climbing on the island. Eight developed crags, sports and trad, close to Polis and within 30 minutes of Paphos.
 
 # [Cavo Greko]({{<ref "cavo-greko/overview" >}})
+
+![](/cavo-greko/cavo_greko.jpg)
 
 Outstanding traditional climbing location in atmospheric coastal setting. Around 180 recorded traditional routes, M to E6.
 

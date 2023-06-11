@@ -6,6 +6,11 @@ description:
 keywords: ["area"]
 ---
 
+This beautiful area on the west coast of Cyprus is:
+
+1. a beatiful sector with a lot of lead climbing. Start with [Gerakopetra]({{<ref "gerakopetra" >}}).
+2. a boulder jungle of mostly great quality sandstone with a potential of 300+ problems. There are lots of topos on the [27crags](https://27crags.com/crags/inia-droushia).
+
 ![](/droushia_area.jpg)
 
 | Crag                                            | Description                                                                     | Rating |

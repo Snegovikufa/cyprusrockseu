@@ -6,6 +6,8 @@ description:
 keywords: ["crag"]
 ---
 
+![Image](/droushia/misos-tholos.jpeg)
+
 Small, but high quality crag. Once the home to a few tough trad routes, but now retrobolted with 3 (still tough) sports routes.
 
 # Directions
@@ -23,6 +25,8 @@ Faces South Gets the sun for most of the day.
 [Click to locate on Google Maps](https://goo.gl/maps/FLBU6CWfFxHGBdYn8)
 
 # Route Summary
+
+[UKClimbing](https://www.ukclimbing.com/logbook/crags/droushiaineia_area-8709/#misos_tholos__mitsis)
 
 3 sport (6b to 6c+)
 

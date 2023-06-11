@@ -28,6 +28,10 @@ There is also a fair smattering of decent boulders, some of which have nice (if 
 
 # Route Summary
 
+[The Crag](https://www.thecrag.com/en/climbing/middle-east/area/5398683633)
+
+[UKClimbing](https://www.ukclimbing.com/logbook/crags/limmasol-25458/#episkopi_limmasol_routes)
+
 10 sport (6a to 7b)
 
 

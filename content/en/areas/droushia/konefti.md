@@ -6,7 +6,7 @@ description:
 keywords: ["crag"]
 ---
 
-Interesting crag, until now difficult to access due to the vegetation. Now lovingly cleaned up by locals, and a set of worthy sports routes set up ranging from easy to hard.
+Interesting crag, until now difficult to access due to the vegetation. Now lovingly cleaned up by locals, and a set of worthy sports routes set up ranging from easy to hard. Developed for trad climbing.
 
 # Directions
 
@@ -25,6 +25,8 @@ Faces North west/North From late morning. Descent location for early morning cli
 
 
 ## Konefti Western
+
+[UKClimbing](https://www.ukclimbing.com/logbook/crags/droushiaineia_area-8709/#konefti_western)
 
 | Route Number | Route Name                         | Grade | Length (m) |
 | ------------ | ---------------------------------- | ----- | ---------- |
@@ -68,3 +70,26 @@ Faces North west/North From late morning. Descent location for early morning cli
 | 17           | Estupido Facista       | F7b        |        |
 | 18           | Vida Pura              | F7b+       |        |
 | 19           | La Ley Natural         | F6b+       |        |
+
+![Image2](/droushia/konefti_002.jpg)
+
+| Route Number | Name                   | Difficulty | Length |
+| ------------ | ---------------------- | ---------- | ------ |
+| 8            | ★★ Victory or Valhala  | 6C         | 18m    |
+| 9            | Dirty Girl             | 6c         | 20m    |
+| 10           | Corner Route           | Trad 4b    | 30m    |
+| 11           | ★★ Yellow Yellow       | 5c         | 25m    |
+| 12           | ★★ Morton              | F5C        | 25m    |
+| 13           | ★★ Aragon              | F5C        | 19m    |
+| 14           | Vampire Staircase Trad | 5c         | 35m    |
+| 15           | Mind Highway           | 5a         | 15m    |
+| 16           | Easier Said than Done  | 6c+        | 19m    |
+| 17           | C'est la Vie           | 6a         | 19m    |
+| 18           | Once bitten, twice shy | 6a         | 17m    |
+| 19           | ★★ Marcopsia           | 6a+        | 15m    |
+| 20           | ★ Star of Inia         | 6b+        | 21m    |
+| 21           | ★★★ Bleeding Spartan   | 7c+        | 20m    |
+| 22           | La Preciosa            | 7a+        | 20m    |
+| 23           | Estupido Facista       | 7b         | 18m    |
+| 24           | Vida Pura              | 7b+        | 19m    |
+| 25           | La Ley Natural         | 6b+        | 19m    |

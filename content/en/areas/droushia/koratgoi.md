@@ -26,6 +26,9 @@ Faces South/South East Gets the sun most of the day.
 
 For descent, scramble down the easy bits on the west side of the crag
 
+# Routes
+
+[UKClimbing](https://www.ukclimbing.com/logbook/crags/droushiaineia_area-8709/#koratzi)
 
 ![](/droushia/dr_lr_2.jpg)
 ![](/droushia/dr_lr_3.jpg)

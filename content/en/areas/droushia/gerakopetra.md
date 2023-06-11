@@ -10,7 +10,7 @@ Excellent crag with many good sports routes, commanding great views over the Aka
 
 # Directions
 
-Starting from Ineia, pass through the village heading west. Pass the coop bank and coffee shop on the right, and at the three way crossroads take the middle road. At the junction bear left and head out of the village. Continue for about 1km (passing a road sign-posted to Droushia on the right). After the road starts to descend, two small roads appear on the left. The second leads to the army base and is guarded by "strictly no entry" signs. Take the second of the small roads (with the no-entry sign!) and continue for about 500m. Just as the road bends left to head for the camp, take the small track (easily missed) on the right. If you have a good 4-wheel vehicle then you can follow the track to its end at the top of the crag. Alternatively park at the entrance to the track or continute down the track and park on the left half-way along before the it starts to descend.
+Starting from Ineia, pass through the village heading NorthWest. Pass the coop bank and coffee shop on the right, and at the three way crossroads take the middle road. At the junction bear left and head out of the village. Continue for about 1km (passing a road sign-posted to Droushia on the right). After the road starts to descend, two small roads appear on the left. The second leads to the army base and is guarded by "strictly no entry" signs. Follow this road is marked as no entry, ignore the signs and continue for about 500m. Just as the road bends left to head for the camp, take the small track (easily missed) on the right. If you have a good 4-wheel vehicle then you can follow the track to its end at the top of the crag. Alternatively park at the entrance to the track or continute down the track and park on the left half-way along before the it starts to descend.
 
 # Aspect
 Faces North-east and north-west. North-east face (containing the easier routes) gets the sun until after mid-day. In mid-summer it remains in the sun until around 3PM except under the big overhang. North-west face gets the sun from around mid-day onwards.
@@ -26,6 +26,10 @@ Faces North-east and north-west. North-east face (containing the easier routes) 
 Its elevation of around 600m and North/East and North/West facing aspect makes this a good summer choice.
 
 # Route Summary
+
+[UKClimbing](https://www.ukclimbing.com/logbook/crags/droushiaineia_area-8709/#gerakopetra)
+
+[The Crag](https://www.thecrag.com/en/climbing/middle-east/area/6529612833)
 
 39 sport (4 to 8a+)
 

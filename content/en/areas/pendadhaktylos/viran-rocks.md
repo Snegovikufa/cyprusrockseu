@@ -10,7 +10,7 @@ Nice crag, if a little sharp in places. Trad and sports routes with great views,
 
 # Directions
 
-From Nicosia (north side) take the main highway heading towards Famagusta (mind the speed cameras - they are 'unforgiving'). Follow the highway for around 12km. Take the turnoff one after the university, and follow the road north. You know you have the correct one if you pass an army camp after 3km (speed camera) then after the road bends right a large quarry. Keep on this road as it bends left and heads sharply uphill. Follow several large lorries full of aggregate as they crawl up the road at a (slow) walking pace - or maybe simply overtake them ;-) At the top of the hill the large Bufavento resaurant is on your right. Take the small road on your right that runs along the side of the restaurant. Continue along this small road for around 4 km, passing a quarry on your right, then the Pendadactylos hills on your left. Once the 4km is up, you will come to a sharper left bend in the road, in front of you and right, up on the hill-side, you should be able to make out Viran rocks a few hundred metres away. Park in one of the obvious rough parking areas just before or just after the bend. Walk down the road (in the same direction you were driving) for about 50m until you see a small track. Follow this as it goes through some trees, then disappears. Continue heading up to the left hand side of the crags. Approach time 10-15 minutes.
+From Nicosia (north side) take the main highway heading towards Famagusta (mind the speed cameras - they are 'unforgiving'). Follow the highway for around 12km. Take the turnoff one after the university, and follow the road north. You know you have the correct one if you pass an army camp after 3km (speed camera) then after the road bends right a large quarry. Keep on this road as it bends left and heads sharply uphill. Follow several large lorries full of aggregate as they crawl up the road at a (slow) walking pace - or maybe simply overtake them. At the top of the hill the large Bufavento resaurant is on your right. Take the small road on your right that runs along the side of the restaurant. Continue along this small road for around 4 km, passing a quarry on your right, then the Pendadactylos hills on your left. Once the 4km is up, you will come to a sharper left bend in the road, in front of you and right, up on the hill-side, you should be able to make out Viran rocks a few hundred metres away. Park in one of the obvious rough parking areas just before or just after the bend. Walk down the road (in the same direction you were driving) for about 50m until you see a small track. Follow this as it goes through some trees, then disappears. Continue heading up to the left hand side of the crags. Approach time 10-15 minutes.
 
 # Aspect
 
@@ -22,11 +22,9 @@ Faces South/South West. Gets the sun most of the day. Ideal for the winter month
 
 [Click to locate on Google Maps](https://goo.gl/maps/1K211UJ1TwNmogiV9)
 
-# Notes
+# Routes
 
-More information is available on the [UKC web-site](https://www.ukclimbing.com/logbook/crags/viran_rocks-15620/).
-
-# Routes 
+[UKClimbing](https://www.ukclimbing.com/logbook/crags/viran_rocks-15620/#topos)
 
 | Route Name                      | Grade  | Length |
 | ------------------------------- | ------ | ------ |

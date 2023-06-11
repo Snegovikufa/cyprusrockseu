@@ -6,7 +6,7 @@ description:
 keywords: ["crag"]
 ---
 
-![Image](/garga-suyu/garga-suyu.jpg)
+![Image](/garga-suyu/garga-suyu_001.jpg)
 
 Oldest sports crag in northern Cyprus. One of the top three sports crags on the island with many quality routes. Not the most peaceful location (due to the main road, and incessant quarry traffic). But this is less distracting than it first seems. Nice views over the five fingers outcrop.
 
@@ -26,10 +26,11 @@ Faces North(ish) Generally in the shade from mid-morning. A good summer crag. Ca
 
 # Notes
 Snakes have, on occasion, been found resting on ledges on routes. Worth bearing in mind....
-Routes listed from left to right, in the order you come across them walking in. No pictures yet (sorry!)
-More information is available on the [UKC web-site](https://www.ukclimbing.com/logbook/crags/garga_suyu-9288/).
+Routes listed from left to right, in the order you come across them walking in.
 
 # Route Summary
+
+[UKClimbing](https://www.ukclimbing.com/logbook/crags/garga_suyu-9288/)
 
 42 sport (5c to 8b)
 
@@ -77,3 +78,12 @@ More information is available on the [UKC web-site](https://www.ukclimbing.com/l
 | 40  | Gindirik                  | F6b   | 0m     |
 | 41  | Horoz                     | F6a+  | 0m     |
 | 42  | Gurkuda                   | F5c   | 0m     |
+
+# Big Cave
+
+| #   | Route Name    | Grade | Description                                                                                                                                                                                                                      | Length |
+| --- | ------------- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| 1   | Golyandro     | 5C    | On the left hand-side of the cave. First bolt 10m up: access the cave above by pulling on the fixed rope, using the ladder or even soloing. Uneventful climb, but why not climb. Any extension in the 9th grade, for the takers. | 0m     |
+| 2   | Pteropous     | 8B    | 10 meters of slab climbing, then continues to the tufas all the way to the top of the cave. Top out giving some extra bonus!!                                                                                                    | 0m     |
+| 3   | Mosquito bite | 8B    | Deep inside the cave. A beauty. 7b+ to the hole, then the fun begins with great sequences of moves until the slightly easier but roofy roof.                                                                                     | 0m     |
+| 4   | Drag queen    | 6B+   |                                                                                                                                                                                                                                  | 0m     |

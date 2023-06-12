@@ -13,3 +13,7 @@ keywords: ["area"]
 | [Exhibition]({{<ref "exhibition" >}})         | A nice little trad crag, with several routes, mainly in the lower grades. | ⭐⭐     |
 | [Agios Georgios]({{<ref "agios-georgios" >}}) | A small scrappy crag, with a few half decent trad routes.                 | ⭐      |
 | [Piastre]({{<ref "piastre" >}})               | A small crag, with some bolted routes.                                    | ⭐⭐     |
+
+| Crag                                 | Description     | Rating |
+| ------------------------------------ | --------------- | ------ |
+| [Bouldering]({{<ref "bouldering">}}) | Bouldering info | ⭐⭐     |

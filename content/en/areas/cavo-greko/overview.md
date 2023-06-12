@@ -16,3 +16,7 @@ keywords: ["area"]
 | [Tigani Crag]({{<ref "tigani-crag" >}})   | A good small compact crag with a good routes in the lower grades.           | ⭐⭐⭐    |
 | [Tigani Rocks]({{<ref "tigani-rocks" >}}) | An easily accessible crag with more good short routes.                      | ⭐⭐     |
 | [Tigani North]({{<ref "tigani-north" >}}) | An easily accessible crag with more short routes.                           | ⭐⭐     |
+
+| Crag                                 | Description     | Rating |
+| ------------------------------------ | --------------- | ------ |
+| [Bouldering]({{<ref "bouldering">}}) | Bouldering info | ⭐⭐     |

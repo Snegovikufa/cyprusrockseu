@@ -13,6 +13,7 @@ A compact, but excellent crag. Home to probably the best sport routes on the isl
 ## Directions
 
 To find the crag, follow the B6 heading east from Paphos. About 14km east of Paphos, take the F616 road northwards situated just east of the AsproKemmos dam (signposted Mamonia, Agios Georgios, Agios Nikolaos). Continue on this road following the line of the Dhiarizos river for 10km. Continue through Agios Georgios and for another 4km, passing the Extreme View cafe. The crag becomes visible a few hundred metres further as the road drops down. Obvious parking area on the left.
+
 ## Aspect
 
 Faces all directions. Always something in the shade (or the sun). Timings are based on summer hours.
@@ -30,6 +31,10 @@ Busy (by Cyprus standards) at weekends and holidays during the Spring and Autumn
 The Extreme View Cafe, located 1 km back up the road to Paphos, is highly recommended.
 
 Please be aware that birds sometimes nest in the top of the crack a third of the way up Khoros tis Siopis (main slab) and in the top of the flake half-way up Kalitechnis (main wall). Try to avoid these routes if it looks like this has happened (usually April through May).
+
+# Accommodation
+
+If you need accommodation during your stay, then check out the [Amazing Cyprus Glamping Domes](https://glamping-cy.com/) just 1km from Kourtelorotsos, on the right towards Kidasi.
 
 # Route Summary
 

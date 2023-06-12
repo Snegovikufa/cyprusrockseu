@@ -10,9 +10,9 @@ keywords: ["crag"]
 
 # Google Maps
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d719.7438097640525!2d33.40065992846701!3d35.297601092846186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzXCsDE3JzUxLjQiTiAzM8KwMjQnMDQuNyJF!5e1!3m2!1sen!2s!4v1686480148991!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d872.5122670639715!2d33.40137063707093!3d35.297757672254534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzXCsDE3JzUxLjciTiAzM8KwMjQnMDYuNSJF!5e0!3m2!1sen!2s!4v1686561199545!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-[Click to locate on Google Maps](https://goo.gl/maps/q1RLyX5NqJXppAC69)
+[Click to locate on Google Maps](https://goo.gl/maps/aEN54XiiVFRfCY4s7)
 
 # Routes
 

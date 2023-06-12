@@ -87,3 +87,9 @@ Two sectors on sligthly cliffy rock in pretty surroundings.
 # [Episkopi/Limassol]({{<ref "episkopi-limassol/overview" >}})
 
 New sector about 10km west of Limassol.
+
+# [Bird Crag]({{<ref "bird-crag/overview" >}})
+
+![Bird crag](/bird-crag/overview.jpg)
+
+Right next to the sea with high quality climbs ranging from 5s up to 7B.

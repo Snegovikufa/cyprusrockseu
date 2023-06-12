@@ -42,3 +42,5 @@ Route Summary: 14 sport (4 to 7a+)
 | 12  | Ektoras    | F6b   | 9m      |
 | 13  | Tilemahos  | F6b   | 12m     |
 | 14  | Aiantas    | F7a   | 12m     |
+| 15  | Sickness   | 7b+   | -       |
+| 16  | Achilleas  | 7a    |         |

@@ -17,7 +17,7 @@ canonifyURLs = true
 
     [languages.en.params]
       introTitle = "Welcome to Cyprus"
-      introSubtitle = "Welcome to CyprusRocks - an online guide to Rock Climbing on the Mediterranean island of Cyprus. Cyprus is one of the largest islands in the med and has the best weather in Europe. While relatively unknown as a climbing destination, the number, quality, and diversity of routes belies its low key reputation. Hard information supplying details of the climbing on offer has traditionally been difficult to track down. This web-site attempts to address this. Enjoy!"
+      introSubtitle = "Welcome to CyprusRocks - an online guide to Rock Climbing in Cyprus. Cyprus is one of the largest islands of the Mediterranean. While relatively unknown as a climbing destination, the number, quality, and diversity of routes belies its low key reputation. This website provides you some information about the variety of climbing destinations you can find here. Enjoy!"
       introPhoto = "/main.jpg"
       logo = "/cyprus.png"
 

@@ -1,12 +1,46 @@
 {{ define "main" }}
-  {{- partial "intro.html" . -}}
+{{- partial "intro.html" . -}}
 
-  {{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
-  <div class="container p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-8">
-    {{ range first 20 (where .Site.RegularPages.ByWeight "Type" $frontBundle)  }}
-      {{- partial "blog-card.html" . -}}
-    {{ end }}
-  </div>
+{{ $frontBundle := .Site.Params.frontBundle | default "blog" }}
 
-  {{- partial "social.html" . -}}
+
+<div id="map"></div>
+
+<script async
+  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBvCUJ_I8qTYpskL5JAUdj3G-XGfy8JWV8&libraries=places&callback=initMap&v=weekly"></script>
+
+<script>
+  function initMap() {
+    var mapOptions = {
+      center: { lat: 35.080898, lng: 33.299763 },
+      zoom: 8
+    };
+
+    var map = new google.maps.Map(document.getElementById('map'), mapOptions);
+
+    var pinLocations = [
+      { lat: 34.975823, lng: 34.076505, title: "Ayioi Anargiroi Church" },
+      { lat: 34.677694, lng: 32.875306, title: "Episkopi Limassol" },
+      { lat: 34.965833, lng: 32.370333, title: "Gerakopetra" },
+      { lat: 34.796247, lng: 32.702387, title: "Dhiarizos (Chasampoulion)" },
+      { lat: 34.857835, lng: 32.653342, title: "Galataria" },
+    ];
+
+    pinLocations.forEach(function (location) {
+      new google.maps.Marker({
+        position: location,
+        map: map,
+        label: location.title,
+      });
+    });
+  }
+</script>
+
+<div class="container p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-8">
+  {{ range first 20 (where .Site.RegularPages.ByWeight "Type" $frontBundle) }}
+  {{- partial "blog-card.html" . -}}
+  {{ end }}
+</div>
+
+{{- partial "social.html" . -}}
 {{ end }}

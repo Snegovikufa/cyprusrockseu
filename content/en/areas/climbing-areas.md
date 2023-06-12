@@ -99,3 +99,15 @@ Right next to the sea with high quality climbs ranging from 5s up to 7B.
 ![Image](/karsiyaka/overview.jpg)
 
 Superb spot for climbing, overlooking the coastline and a fair distance from any sounds other than those of the wind and the birds. The ruins of the monastery just add to the enjoyment. Climbing routes range from 5 to 8a+.
+
+# [Trouli]({{<ref "trouli/overview">}})
+
+![](/trouli/trouli.jpg)
+
+Limestone project.
+
+# [Ancient wall]({{<ref "ancient-wall/overview">}})
+
+![](/ancient-wall/overview.jpg)
+
+Limestone with a lot of hard routes starting from 6C+.

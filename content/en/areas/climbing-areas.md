@@ -93,3 +93,9 @@ New sector about 10km west of Limassol.
 ![Bird crag](/bird-crag/overview.jpg)
 
 Right next to the sea with high quality climbs ranging from 5s up to 7B.
+
+# [Karsiyaka]({{<ref "karsiyaka/overview">}})
+
+![Image](/karsiyaka/overview.jpg)
+
+Superb spot for climbing, overlooking the coastline and a fair distance from any sounds other than those of the wind and the birds. The ruins of the monastery just add to the enjoyment. Climbing routes range from 5 to 8a+.

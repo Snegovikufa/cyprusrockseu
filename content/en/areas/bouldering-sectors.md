@@ -48,3 +48,8 @@ An area located close to the Agios Irakleidhios monastery, but without the acces
 
 Old school bouldering in an old school disused quarry. High ball and loose and well worth a visit. Make sure your health insurance is up to date 😁. Located just west of Oroklini, not far from Larnaca. 
 
+# [Alagadi Beach]({{<ref "alagadi/bouldering">}})
+
+![](/alagadi/overview.jpg)
+
+Smooth and soft sandstone.

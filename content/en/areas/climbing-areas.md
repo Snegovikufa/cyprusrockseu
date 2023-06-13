@@ -8,6 +8,8 @@ keywords: ["area"]
 
 ![Map](/map.png)
 
+[All points on Google Maps](https://goo.gl/maps/ETEMjs3ZAp9Tcfan7)
+
 # [Dhiarizos]({{<ref "/areas/dhiarizos/overview" >}})
 
 ![Dhiarizos](/dhiarizos/overview.jpg)
@@ -34,7 +36,7 @@ Great sector in a peaceful and remote location above the Xeros river valley.
 
 # [Cavo Greko]({{<ref "cavo-greko/overview" >}})
 
-![Cavo greko](/cavo-greko/main.jpg)
+![Cavo greko](/cavo-greko/tigani-rocks.jpg)
 
 Outstanding traditional climbing location in atmospheric coastal setting. Around 180 recorded traditional routes, M to E6.
 
@@ -72,10 +74,6 @@ This is one of the most picturesque climbing areas of Northern Cyprus. There are
 
 This sector has access issues - climbing is only allowed on the first Saturday and Sunday of each month.
 
-# [Germasogeia]({{<ref "germasogeia/overview" >}})
-
-Undeveloped grit-like cliffs overlooking Germasogeia reservoir, near Limassol.
-
 # [Happy Valley]({{<ref "/areas/happy-valley/overview" >}})
 
 Decent little trad climbing area near Limassol. Over 20 routes, in low to mid grades.
@@ -86,9 +84,9 @@ Two sectors on sligthly cliffy rock in pretty surroundings.
 
 # [Episkopi/Limassol]({{<ref "episkopi-limassol/overview" >}})
 
-![Image](/episkopi-limassol/overview.png)
+![Image](/episkopi-limassol/overview.jpg)
 
-New sector about 10km west of Limassol.
+A new limestone sector about 10km west of Limassol. 10 routes up to 7a+.
 
 # [Bird Crag]({{<ref "bird-crag/overview" >}})
 

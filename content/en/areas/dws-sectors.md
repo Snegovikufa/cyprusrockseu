@@ -6,7 +6,9 @@ description:
 keywords: ["area"]
 ---
 
-![](/dws_map.png)
+![](/dws_map.jpg)
+
+[All points on Google Maps](https://goo.gl/maps/2aMBoAPLF4fZrSFd6)
 
 # Overview
 

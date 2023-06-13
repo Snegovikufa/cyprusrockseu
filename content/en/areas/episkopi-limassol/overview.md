@@ -6,6 +6,8 @@ description:
 keywords: ["crag"]
 ---
 
+![Image](/episkopi-limassol/overview.jpg)
+
 Newly developed limestone crag located close to the large village of Episkopi, about 10km west of Limassol. The routes are around 10-14m in length, mostly with difficult starts and low-down cruxes.
 
 # Directions

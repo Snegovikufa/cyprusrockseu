@@ -13,4 +13,4 @@ Spring and Autumn are probably the optimum times to visit. Early spring and late
 
 Summer climbing is generally restricted to sports sectors, preferably in the shade. If there is an off season in Cyprus, then high summer (July and August) is probably it. However, even then there is always something in the shade at the two premier sports crags of [Gerakopetra]({{<ref "gerakopetra" >}}) and [Dhiarizos]({{<ref "/areas/dhiarizos/overview" >}}). [Gerakopetra]({{<ref "gerakopetra" >}}), being situated at over 600m, and often breezy, is especially suited to summer visits.
 
-Average monthly temperatures can be found on the Cyprus Weather web-site. 
+Average monthly temperatures can be found on the [Cyprus Weather web-site](https://cyprus-weather.com). 

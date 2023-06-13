@@ -6,6 +6,8 @@ description:
 keywords: ["crag"]
 ---
 
+![Image](/troodos/main.jpg)
+
 A new venue in one of the few climbable venues in the Troodos hills. It is a bit loose in places and requires some care. Home to 5 (at present) sports routes on a (mostly) easy angled slab.
 
 # Directions
@@ -18,9 +20,9 @@ Faces South East, at an elevation of 1150m. In the shade from mid-afternoon onwa
 
 # Google Maps
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d4236.2779795412725!2d32.87942931523921!3d34.96135698036842!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDU3JzQwLjkiTiAzMsKwNTInNTMuOCJF!5e1!3m2!1sen!2s!4v1681194342684!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d4726.038705762684!2d32.879547122490116!3d34.95891797109383!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDU3JzMyLjEiTiAzMsKwNTInNTUuOSJF!5e1!3m2!1sen!2s!4v1686680374589!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-[Click to locate on Google Maps](https://goo.gl/maps/jEGv6cv9vyyrncDQ8)
+[Click to locate on Google Maps](https://goo.gl/maps/Fi9ut3wdQFRiG2kd9)
 
 # Notes
 
@@ -31,10 +33,31 @@ A few hundred metres further up the valley, on the other side of the stream, is 
 
 [UKClimbing](https://www.ukclimbing.com/logbook/crags/kakopetria-12450/#topos)
 
-7 sport (5a to 6a+)
+11 sport (5a to 7B)
 
+## Black Diamond
 
-![Image](/troodos/kako_2.jpg)
+![Image](/troodos/bd.jpg)
+
+| No. | Route Name      | Grade |
+| --- | --------------- | ----- |
+| 1.  | Black Diamond 1 | 6B+   |
+| 2.  | Black Diamond 2 | 7B    |
+
+## Multipitch sector
+
+![Image](/troodos/multipitch.jpg)
+
+The multipitch sector is located further down from the main sport sector. Shortly before reaching the mine, rear left and down a path until you reach the river. Cross over the river and scramble up some loose rock to reach the base of the crag. Whilst climbing please take care as the rock is very brittle. It is strongly advised that you wear a helmet at all times.
+
+| No. | Route Name       | Grade | Description     |
+| --- | ---------------- | ----- | --------------- |
+| 1.  | Magical Thinking | 6B+   | 90m, 3 pitches  |
+| 2.  | Black Diamond 2  | 7B    | 105m, 3 pitches |
+
+## Main Sector
+
+![Image](/troodos/kako2.jpg)
 
 | No. | Route Name   | Grade | Length | Description |
 | --- | ------------ | ----- | ------ | ----------- |

@@ -21,38 +21,38 @@ Limestone crag with routes varying from 6C to 7B+.
 
 ## Left side / Sector A'
 
-| Name           | Grade | Stars | Type | Logs |
-| -------------- | ----- | ----- | ---- | ---- |
-| Flying frog    | 7b+   |       |      | 1    |
-| Testarossa     | 7b+   |       |      | 1    |
-| ?              | 6c+   |       |      | 1    |
-| Altrurist ext. | 7a    |       |      | 5    |
-| Altrurist      | 6a    |       |      | 6    |
+| Name           | Grade |
+| -------------- | ----- |
+| Flying frog    | 7b+   |
+| Testarossa     | 7b+   |
+| ?              | 6c+   |
+| Altrurist ext. | 7a    |
+| Altrurist      | 6a    |
 
 ## Left side / Sector B'
 
-| Name            | Grade   | Stars | Type | Logs |
-| --------------- | ------- | ----- | ---- | ---- |
-| Peanut butter   | 6c      | -     |      | 0    |
-| Hazelnut        | 6c      | -     |      | 0    |
-| Almond eye      | 6c      | -     |      | 0    |
-| Summit Scramble | Grade-1 | -     |      | 1    |
+| Name            | Grade |
+| --------------- | ----- |
+| Peanut butter   | 6c    |
+| Hazelnut        | 6c    |
+| Almond eye      | 6c    |
+| Summit Scramble | ?     |
 
 ##  Right side / Sector B'
 
-| Name                 | Grade | Stars | Type | Logs |
-| -------------------- | ----- | ----- | ---- | ---- |
-| Vabe Nation          | 7b+   |       |      | 1    |
-| Fly or cry           | 7b+   |       |      | 3    |
-| Iron heel            | 7b    |       |      | 5    |
-| Techno Viking        | 6c+   | -     |      | 1    |
-| Techno Viking ext.   | 7c    | -     |      | 1    |
-| Flower moon          | 7a+   | -     |      | 1    |
-| Flower Moon ext.     | 7b+   | -     |      | 1    |
-| Ukulele              | 6c+   | -     |      | 5    |
-| Dirty mind           | 6c    | -     |      | 5    |
-| Bootcamp             | 6b+   |       |      | 8    |
-| Silver Moonlight     | 7c    | -     |      | 1    |
-| Breaking the silence | 7a    | -     |      | 2    |
-| Master blaster       | 7b    |       |      | 5    |
-| Ice Queen            | 7c    |       |      | 2    |
+| Name                 | Grade |
+| -------------------- | ----- |
+| Vabe Nation          | 7b+   |
+| Fly or cry           | 7b+   |
+| Iron heel            | 7b    |
+| Techno Viking        | 6c+   |
+| Techno Viking ext.   | 7c    |
+| Flower moon          | 7a+   |
+| Flower Moon ext.     | 7b+   |
+| Ukulele              | 6c+   |
+| Dirty mind           | 6c    |
+| Bootcamp             | 6b+   |
+| Silver Moonlight     | 7c    |
+| Breaking the silence | 7a    |
+| Master blaster       | 7b    |
+| Ice Queen            | 7c    |

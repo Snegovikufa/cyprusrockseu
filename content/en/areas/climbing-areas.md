@@ -86,6 +86,8 @@ Two sectors on sligthly cliffy rock in pretty surroundings.
 
 # [Episkopi/Limassol]({{<ref "episkopi-limassol/overview" >}})
 
+![Image](/episkopi-limassol/overview.png)
+
 New sector about 10km west of Limassol.
 
 # [Bird Crag]({{<ref "bird-crag/overview" >}})
@@ -104,10 +106,16 @@ Superb spot for climbing, overlooking the coastline and a fair distance from any
 
 ![](/trouli/trouli.jpg)
 
-Limestone project.
+Limestone with a lot of projects.
 
 # [Ancient wall]({{<ref "ancient-wall/overview">}})
 
 ![](/ancient-wall/overview.jpg)
 
 Limestone with a lot of hard routes starting from 6C+.
+
+# [Kozan Koy]({{<ref "kozan-koy/overview">}})
+
+![Image](/kozan-koy/overview.jpg)
+
+Limestone for mid-range and high-grade climbers.
